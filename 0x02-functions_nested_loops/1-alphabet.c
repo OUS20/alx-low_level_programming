@@ -1,3 +1,4 @@
+#include "main.h"
 /**
 * print_alphabet - print all alphabet in lowercase
 */
@@ -14,5 +15,3 @@ _putchar(letter);
 
 _putchar('\n');
 }
-#include "main.h"
-
